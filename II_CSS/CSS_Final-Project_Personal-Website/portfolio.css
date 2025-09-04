@@ -1,0 +1,22 @@
+html {
+  background-color: aliceblue;
+  color: cornflowerblue;
+}
+
+header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+nav {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+section {
+  border: 2px solid lavender;
+  padding: 2px;
+  gap: 2px;
+}
